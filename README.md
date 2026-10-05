@@ -127,7 +127,7 @@ Through this repository, I aim to:
 
 GitHub Profile: [github.com/sayansau496](https://github.com/sayansau496)
 
-Repository: [Python Data Analysis Using NumPy, Pandas & Matplotlib](https://github.com/sayansau496/Python-Data-Analysis-NumPy-Pandas-Matplotlib)
+
 
 ---
 
